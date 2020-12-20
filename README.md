@@ -27,6 +27,7 @@ First edit the Gemfile .  Add these lines.
 
 gem 'jquery-rails'   
 gem 'bootstrap'   
+gem 'mini_racer'
 
 They should go in the main section, above the line
 
